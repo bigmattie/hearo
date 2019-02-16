@@ -1,0 +1,44 @@
+
+.sticky-top {
+    background-color: white;
+    border-bottom: 2px #197AA7 solid;
+    height: 3.5rem;
+    opacity: .95;
+}
+
+.aboveTheFold {
+    margin: 0px !important;
+    padding: .5rem !important;
+    padding-top: 0px;
+    background-image: url('geometric.jpg');
+    background-size: cover;
+    height: 500px;
+}
+
+.p-lg-5 {
+    padding-top: 0px !important;
+}
+
+.alexaImage {
+    width: 450px;
+    height: 400px;
+    background-image: url('alexa.png');
+    background-size: cover;
+}
+
+.cta {
+    width: 450px;
+    height: 400px;
+}
+
+.display-4 {
+    font-size: 3rem;
+}
+
+.belowTheFold {
+    padding: 40px 0px 40px 0px;
+}
+
+a {
+    color: #197AA7;
+}
