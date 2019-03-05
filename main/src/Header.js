@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import "./Header.css";
+// import "./Header.css";
 
 export default class Header extends Component {
   render() {
     return (
-         {/*Navigation Bar*/}
+         // Navigation Bar
         <nav class="site-header sticky-top py-1">
           <div class="container d-flex flex-column flex-md-row justify-content-between">
             <a class="py-2" href="#">

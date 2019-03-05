@@ -15,19 +15,53 @@
     height: 500px;
 }
 
+.primary-btn {
+    background-color: aliceblue;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+.number-icon {
+    border: 2px solid;
+    width: 3rem;
+    line-height: 3rem;
+    border-radius: 30px;
+    display: inline-block;
+    background-color: cornflowerblue;
+}
+
 .p-lg-5 {
     padding-top: 0px !important;
 }
 
 .alexaImage {
-    width: 450px;
     height: 400px;
-    background-image: url('alexa.png');
+    background-image: url('HeroImage.png');
     background-size: cover;
 }
 
+.image-1 {
+    background-image: url('image1.PNG');
+    width: 140px;
+    height: 115px;
+    display: inline-block;
+}
+
+.image-2 {
+    background-image: url('image2.PNG');
+    width: 155px;
+    height: 90px;
+    display: inline-block;
+}
+
+.image-3 {
+    background-image: url('image3.PNG');
+    width: 175px;
+    height: 100px;
+    display: inline-block;
+}
+
 .cta {
-    width: 450px;
     height: 400px;
 }
 
@@ -36,7 +70,7 @@
 }
 
 .belowTheFold {
-    padding: 40px 0px 40px 0px;
+    padding: 25px 0px 40px 0px;
 }
 
 a {
